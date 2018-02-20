@@ -15,6 +15,11 @@
     text-transform: uppercase;
 }
 
+#dice-1{top:120px;}
+#dice-2{top:250px;}
+
+.Final-score:focus{outline: none;}
+
 * {
     margin: 0;
     padding: 0;
